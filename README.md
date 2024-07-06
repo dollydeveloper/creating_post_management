@@ -9,7 +9,8 @@ Features
 Posts Display Screen: Showcases all created posts. Each post includes an option to edit. A button at the bottom redirects users to the Create Post Screen. Create Post Screen: Allows users to create new posts. Supports editing of existing posts. Validates input to ensure both title and content are provided.
 
 Installation
-Clone the repository: git clone https://github.com/varadevipriya/createpost.git cd post-management-app
+Clone the repository: git clone https://github.com/varadevipriya/creating_post_management.git
+
 
 Install dependencies:
 npm install
